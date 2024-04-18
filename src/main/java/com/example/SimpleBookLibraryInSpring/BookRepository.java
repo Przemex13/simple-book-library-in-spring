@@ -42,7 +42,4 @@ public class BookRepository {
 
         return 1;
     }
-
-
-
 }
