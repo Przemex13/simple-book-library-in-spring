@@ -21,9 +21,10 @@ Wykorzystano następujące technologie i biblioteki:\
 -Java\
 -Spring\
 -Maven\
--MySQL
--Docker
--Lombok
+-MySQL\
+-Docker\
+-Lombok\
+-Postman (testy)
 
 Jak uruchomić kontener?
 
@@ -48,4 +49,4 @@ należy zatem wpisać polecenie:
 docker run --name przemex13simpleLibraryContainer -e MYSQL_ROOT_PASSWORD=Przemek123 -d -p 3307:3306 przemex13/simplelibrary
 
 W razie pytań, sugestii i problemów, służe pomocą \
-przemyslaw@poskrobko@gmail.com
+przemyslaw.poskrobko@gmail.com
